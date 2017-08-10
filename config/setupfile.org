@@ -1,0 +1,27 @@
+#+STARTUP: beamer
+#+TITLE: Brazil Outlook
+#+AUTHOR: João Maurício Rosal, \it{Chief Economist}
+#+OPTIONS: toc:t author:t date:nil title:t date:t H:2
+#+LATEX_CLASS: beamer
+#+LATEX_CLASS_OPTIONS: [12pt, presentation, t]
+#+BEAMER_THEME: metropolis [progressbar=frametitle, titleformat=allcaps]
+#+BEAMER_HEADER:\titlegraphic{\hfill\includegraphics[height=1.0cm]{logo/BGC_logo.png}}
+#+BEAMER_OUTER_THEME: metropolis [numbering=fraction]
+#+LATEX_HEADER:\usepackage{appendixnumberbeamer}
+#+LATEX_HEADER:\usepackage{booktabs}
+#+LATEX_HEADER:\usepackage[scale=2]{ccicons}
+#+LATEX_HEADER:\usepackage{pgfplots}
+#+LATEX_HEADER_EXTRA:\usepgfplotslibrary{dateplot}
+#+LATEX_HEADER:\usepackage{xspace}
+#+LATEX_HEADER:\usepackage[subpreambles=true]{standalone}
+#+LATEX_HEADER:\usepackage{import}
+#+LATEX_HEADER:\usepackage[linktocpage=true]{hyperref}
+#+LATEX_HEADER:\usepackage[portuguese]{babel}
+#+LATEX_HEADER:\usepackage[utf8]{inputenc}
+#+LATEX_HEADER_EXTRA:\newcommand{\themename}{\textbf{\textsc{metropolis}}\xspace}
+#+LATEX_HEADER_EXTRA:\definecolor{mSybilaRed}{HTML}{990000}
+#+LATEX_HEADER_EXTRA:\definecolor{myBarRed}{HTML}{cc0000}
+#+LATEX_HEADER_EXTRA:\setbeamercolor{title separator}{fg=myBarRed}
+#+LATEX_HEADER_EXTRA:\setbeamercolor{progress bar}{fg=mSybilaRed,bg=mSybilaRed}
+#+LATEX_HEADER_EXTRA:\setbeamercolor{progress bar in section page}{use=progress bar, parent=progress bar}
+#+LATEX_HEADER_EXTRA:\setbeamercolor{alerted text}{fg=mSybilared}

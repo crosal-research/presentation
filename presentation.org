@@ -1,0 +1,60 @@
+#+SETUPFILE: ./config/setupfile.org
+
+ * Investment Thesis
+
+** Main themes
+
+   * Recovery to remain gradual over 2017 and gathering momentum into 2018.
+   * Central Bank to lower the Selic rate until reaching 7.00%
+   * General Elections of 2018 is key event to start monitoring from October 2017.
+   * Prior to that, attempts to push forward with social security reform
+     will be of prime importance.
+
+** Main Forecasts
+
+   #+include:"./org/forecasts.org"
+
+* Global Economy
+
+
+** Outlook
+   * Growth standing at/close to potential at DMs amid tamed inflation, for now.
+   * Easy financial conditions and asset valuations near record levels.
+   * Firm Economic performance at emerging Asia.
+   * Evolution of inflation in DMs looks key for the continuation of
+     financial condition.
+
+** Growth Growth
+** Global Markets
+
+** Commodity Prices
+
+* Brazil
+
+** Outlook
+   - Activity slackness remains unprecedented.
+   - Forward looking gauges indicates the economy gathering momentum.
+   - Inflation is to persist tamed in 2017 and 2018 along the economic take off.
+   - The need to a long-term fiscal anchor is becoming ever more
+     evident.
+
+** Activity
+** Financial and Credit Conditions
+** Inflation
+** Fiscal Policy
+** Politics
+   - Temer survival granted another chance to push through a
+     reforming agenda.
+   - Temer's pecking order looks like:
+     1) Social Security: most likely a watered down version.
+     2) Tax reform.
+   - Election reform stands in the middle of this agenda along with
+     much needs convincing of both Houses.
+
+* Risks
+** Main Risks:
+   - Change of inflationary conditions in DMs.
+   - Fiscal conditions in Brazil.
+
+
+* Disclaimer
